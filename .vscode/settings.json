@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.csv": "cpp",
+        "*.nvue": "vue",
+        "bitset": "cpp"
+    }
+}
