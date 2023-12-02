@@ -5,11 +5,7 @@
 
 - [Openssl command](#openssl-command)
   - [命令总览](#命令总览)
-    - [1. ans1parse](#1-ans1parsehttpsgithubcomqiang81020openssl-commandblobmaincommandasymasn1parsemd)
-    - [2. ans1parse](#2-ans1parse)
-  - [2. Hash](#2-hash)
-  - [3. Symmetric Algorithim](#3-symmetric-algorithim)
-- [命令举例](#命令举例)
+  - [命令详细说明](#命令详细说明)
 
 <!-- /code_chunk_output -->
 
@@ -72,12 +68,11 @@
 | 52 | version     |                                                                                                                                                                             |
 | 53 | x509        | 证书显示、格式转换、CSR签名                                                                                                                                                             |
 
-### 1. [ans1parse](https://github.com/qiang81020/openssl-command/blob/main/command/asym/asn1parse.md)
+## 命令详细说明
+1. [ans1parse](https://github.com/qiang81020/openssl-command/blob/main/command/asym/1.asn1parse.md)
 
-### 2. ans1parse
+2. [ca](https://github.com/qiang81020/openssl-command/blob/main/command/asym/2.ca.md)
 
-## 2. Hash
+12. [ec](https://github.com/qiang81020/openssl-command/blob/main/command/asym/12.ec.md)
 
-## 3. Symmetric Algorithim
-
-# 命令举例
+13. [ecparam](https://github.com/qiang81020/openssl-command/blob/main/command/asym/13.ecparam.md)
