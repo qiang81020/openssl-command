@@ -5,6 +5,7 @@
 
 - [Openssl command](#openssl-command)
   - [命令总览](#命令总览)
+  - [openssl man 3.0](#openssl-man-30)
   - [命令详细说明](#命令详细说明)
 
 <!-- /code_chunk_output -->
@@ -67,6 +68,8 @@
 | 51 | verify      | 此命令验证证书链。如果证书链有多个问题，该程序会尝试显示所有问题。                                                                                                                                           |
 | 52 | version     |                                                                                                                                                                             |
 | 53 | x509        | 证书显示、格式转换、CSR签名                                                                                                                                                             |
+## openssl man 3.0
+[openssl man 3.0](https://www.openssl.org/docs/man3.0/man1/)
 
 ## 命令详细说明
 1. [ans1parse](https://github.com/qiang81020/openssl-command/blob/main/command/asym/01.asn1parse.md)
@@ -76,3 +79,4 @@
 12. [ec](https://github.com/qiang81020/openssl-command/blob/main/command/asym/12.ec.md)
 
 13. [ecparam](https://github.com/qiang81020/openssl-command/blob/main/command/asym/13.ecparam.md)
+
