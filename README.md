@@ -69,9 +69,9 @@
 | 53 | x509        | 证书显示、格式转换、CSR签名                                                                                                                                                             |
 
 ## 命令详细说明
-1. [ans1parse](https://github.com/qiang81020/openssl-command/blob/main/command/asym/1.asn1parse.md)
+1. [ans1parse](https://github.com/qiang81020/openssl-command/blob/main/command/asym/01.asn1parse.md)
 
-2. [ca](https://github.com/qiang81020/openssl-command/blob/main/command/asym/2.ca.md)
+2. [ca](https://github.com/qiang81020/openssl-command/blob/main/command/asym/02.ca.md)
 
 12. [ec](https://github.com/qiang81020/openssl-command/blob/main/command/asym/12.ec.md)
 
