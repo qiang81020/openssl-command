@@ -47,7 +47,7 @@
 | 30 | pkcs7       | PKCS#7数据管理                                                                                                                                                                  |
 | 31 | pkcs8       | PKCS#8数据管理                                                                                                                                                                  |
 | 32 | pkey        | Pkey命令处理公钥或私钥。它们可以在各种形式和打印出来的组件之间转换。                                                                                                                                        |
-| 33 | pkeyparam   | 公钥算法参数处理工具                                                                                                                                                                  |
+| 33 | pkeyparam   | 公钥算法参数处理工具。<font color=green>太简单，不做详解。</font>                                                                                                                                                                  |
 | 34 | pkeyutl     | 此命令可用于使用任何支持的算法执行低级公钥操作。可执行签名验签、加密解密（不支持sm2？）、支持sm2带id签名                                                                                                                    |
 | 35 | prime       | 此命令检查指定的数字是否为素数。<br/><br/>如果命令行上没有给出数字，则应使用-generate标志根据其余标志指定的要求生成素数。                                                                                                      |
 | 36 | rand        | 生成伪随机字节                                                                                                                                                                     |
@@ -80,3 +80,10 @@
 
 13. [ecparam](https://github.com/qiang81020/openssl-command/blob/main/command/asym/13.ecparam.md)
 
+20. [genrsa](https://github.com/qiang81020/openssl-command/blob/main/command/asym/20.genrsa.md)
+
+32. [pkey](https://github.com/qiang81020/openssl-command/blob/main/command/asym/32.pkey.md)
+
+33. pkeyparam:太简单，略
+
+34. [pkeyutl](https://github.com/qiang81020/openssl-command/blob/main/command/asym/34.pkeyutl.md)
