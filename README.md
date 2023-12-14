@@ -35,11 +35,7 @@
 | 18 | gendsa      | 从一组参数生成DSA私钥(参数有dsaparam命令产生)                                                                                                                                               |
 | 19 | genpkey     | 产生RSA、DSA、DH、EC等算法的私钥                                                                                                                                                       |
 | 20 | genrsa      | RSA密钥产生                                                                                                                                                                     |
-| 21 | help        |                                                                                                                                                                             |
-| 22 | info        |                                                                                                                                                                             |
-| 23 | kdf         | 执行密钥派生函数的操作                                                                                                                                                                 |
-| 24 | list        | 列出算法和功能                                                                                                                                                                     |
-| 25 | mac         | 执行计算mac操作                                                                                                                                                                   |
+| 21 | mac         | 执行计算mac操作                                                                                                                                                                   |
 | 26 | nseq        | 创建或检查Netscape证书序列                                                                                                                                                           |
 | 27 | ocsp        | 在线证书状态协议实用程序                                                                                                                                                                |
 | 28 | passwd      | 计算密码散列。可用于生成linux password写入/etc/passwd生效                                                                                                                                   |
@@ -80,7 +76,11 @@
 
 13. [ecparam](https://github.com/qiang81020/openssl-command/blob/main/command/asym/13.ecparam.md)
 
+19. [genpkey](https://github.com/qiang81020/openssl-command/blob/main/command/asym/19.genpkey.md)
+
 20. [genrsa](https://github.com/qiang81020/openssl-command/blob/main/command/asym/20.genrsa.md)
+
+21. [mac](https://github.com/qiang81020/openssl-command/blob/main/command/asym/21.mac.md)
 
 32. [pkey](https://github.com/qiang81020/openssl-command/blob/main/command/asym/32.pkey.md)
 
