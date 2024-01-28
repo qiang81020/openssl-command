@@ -8,6 +8,7 @@
     - [1. 盐值的作用机制](#1-盐值的作用机制)
     - [2. pkeyutl](#2-pkeyutl)
   - [知识点](#知识点)
+    - [0. ECC算法原理](#0-ecc算法原理)
     - [1. RSA加密填充模式](#1-rsa加密填充模式)
     - [2. DSA算法](#2-dsa算法)
     - [3. CMAC](#3-cmac)
@@ -35,6 +36,10 @@
 
 ## 知识点
 
+### 0. ECC算法原理
+
+[ECC算法原理](https://zhuanlan.zhihu.com/p/42629724)
+
 ### 1. RSA加密填充模式
 
 - none
@@ -60,6 +65,8 @@ H(K) &if\ K\ is\ larger\ than\ block\ size\\
 K    &otherwise
 \end{cases} \\
 \\
+ipad=0x5c..0x5c
+opad=
 $$
 
 | Hash function H | b bytes  | L, bytes |
