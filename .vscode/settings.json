@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "*.csv": "cpp",
-        "*.nvue": "vue",
-        "bitset": "cpp"
-    },
-    "cmake.sourceDirectory": "/Users/yanxiaqiang/code/openssl-command/code/polynomial/v1"
-}

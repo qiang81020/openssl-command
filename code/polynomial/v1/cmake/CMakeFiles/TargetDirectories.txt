@@ -1,5 +1,0 @@
-/Users/yanxiaqiang/code/openssl-command/code/polymomial/cmake/CMakeFiles/edit_cache.dir
-/Users/yanxiaqiang/code/openssl-command/code/polymomial/cmake/CMakeFiles/rebuild_cache.dir
-/Users/yanxiaqiang/code/openssl-command/code/polymomial/cmake/src/CMakeFiles/main.dir
-/Users/yanxiaqiang/code/openssl-command/code/polymomial/cmake/src/CMakeFiles/edit_cache.dir
-/Users/yanxiaqiang/code/openssl-command/code/polymomial/cmake/src/CMakeFiles/rebuild_cache.dir
