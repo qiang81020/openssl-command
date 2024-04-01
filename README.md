@@ -19,7 +19,7 @@
 | 2  | ca          | ca管理                                                                                                                                                                        |
 | 3  | ciphers     | 指令是用来展示用于SSL加密算法的工具。它能够把所有openssl支持的加密算法按照一定规律排列（一般是加密强度）。这样可以用来做测试工具，决定使用什么加密算法。                                                                                           |
 | 4  | cmp         | 证书管理协议（CMP）是由IETF标准化的互联网协议，用于在公钥基础设施（PKI）中获取X.509数字证书。                                                                                                                      |
-| 5  | cms         | 该命令处理S/MIME v3.1邮件。可以用它对S/MIME消息进行加密、解密、签名、验证签名、压缩以及解压缩等操作。                                                                                                                 |
+| 5  | cms         | Cryptographic Message Syntax. 该命令处理S/MIME v3.1邮件。可以用它对S/MIME消息进行加密、解密、签名、验证签名、压缩以及解压缩等操作。                                                                                                                 |
 | 6  | crl         | 管理CRL列表                                                                                                                                                                     |
 | 7  | crl2pkcs7   | CRL与PKCS#7转换                                                                                                                                                                |
 | 8  | dgst        | 杂凑运算命令                                                                                                                                                                      |
@@ -71,6 +71,8 @@
 1. [ans1parse](https://github.com/qiang81020/openssl-command/blob/main/command/asym/01.asn1parse.md)
 
 2. [ca](https://github.com/qiang81020/openssl-command/blob/main/command/asym/02.ca.md)
+
+5. [cms](https://github.com/qiang81020/openssl-command/blob/main/command/asym/05.cms.md)
 
 12. [ec](https://github.com/qiang81020/openssl-command/blob/main/command/asym/12.ec.md)
 
